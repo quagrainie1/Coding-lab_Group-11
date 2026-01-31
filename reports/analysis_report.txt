@@ -1,0 +1,32 @@
+========================================
+Log Analysis Report
+Log Type: Heart Rate
+Log File: hospital_data/active_logs/heart_rate.log
+Analysis Date: Sat 31 Jan 2026 04:36:13 AM PST
+----------------------------------------
+Device: HeartRate_Monitor_A
+  Total Entries: 451
+  First Entry: 2026-01-29 08:25:33
+  Last Entry: 2026-01-29 08:28:03
+
+Device: HeartRate_Monitor_B
+  Total Entries: 451
+  First Entry: 2026-01-29 08:25:33
+  Last Entry: 2026-01-29 08:28:03
+
+========================================
+Log Analysis Report
+Log Type: Temperature
+Log File: hospital_data/active_logs/temperature.log
+Analysis Date: Sat 31 Jan 2026 04:41:11 AM PST
+----------------------------------------
+Device: Temp_Recorder_A
+  Total Entries: 3913
+  First Entry: 2026-01-29 07:50:28
+  Last Entry: 2026-01-29 08:25:32
+
+Device: Temp_Recorder_B
+  Total Entries: 3913
+  First Entry: 2026-01-29 07:50:28
+  Last Entry: 2026-01-29 08:25:32
+
