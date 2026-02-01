@@ -30,3 +30,46 @@ Device: Temp_Recorder_B
   First Entry: 2026-01-29 07:50:28
   Last Entry: 2026-01-29 08:25:32
 
+========================================
+Log Analysis Report
+Log Type: Heart Rate
+Log File: hospital_data/active_logs/heart_rate.log
+Analysis Date: Sun Feb  1 22:48:17 EET 2026
+----------------------------------------
+Device: HeartRate_Monitor_A
+  Total Entries: 167712
+  First Entry: 2026-01-29 14:13:33
+  Last Entry: 2026-01-31 12:51:47
+
+Device: HeartRate_Monitor_B
+  Total Entries: 167712
+  First Entry: 2026-01-29 14:13:33
+  Last Entry: 2026-01-31 12:51:47
+
+========================================
+Log Analysis Report
+Log Type: Temperature
+Log File: hospital_data/active_logs/temperature.log
+Analysis Date: Sun Feb  1 22:48:38 EET 2026
+----------------------------------------
+Device: Temp_Recorder_A
+  Total Entries: 167666
+  First Entry: 2026-01-29 14:14:19
+  Last Entry: 2026-01-31 12:51:49
+
+Device: Temp_Recorder_B
+  Total Entries: 167666
+  First Entry: 2026-01-29 14:14:19
+  Last Entry: 2026-01-31 12:51:49
+
+========================================
+Log Analysis Report
+Log Type: Water Usage
+Log File: hospital_data/active_logs/water_usage.log
+Analysis Date: Sun Feb  1 22:48:48 EET 2026
+----------------------------------------
+Device: Water_Consumption_Meter
+  Total Entries: 167654
+  First Entry: 2026-01-29 14:14:38
+  Last Entry: 2026-01-31 12:51:51
+
